@@ -1,6 +1,4 @@
-# UNE AI POUR WEB SCRAPING
-
-# AI-Web-Scraper 🤖 🌐
+# UNE AI POUR WEB SCRAPING 🤖 🌐
 
 Un puissant outil de web scraping qui combine l'intelligence artificielle avec des technologies modernes de scraping pour une extraction de données efficace et intelligente.
 
